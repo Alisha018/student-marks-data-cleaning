@@ -3,7 +3,7 @@
 This project focuses on cleaning and standardizing a messy student dataset using Python.  
 It fixes issues like inconsistent formatting, missing values, invalid numbers, and incorrect text fields.
 
-## 🧹 What This Project Does
+## What This Project Does
 - Removed leading/trailing spaces from student names  
 - Normalized names to Title Case  
 - Standardized gender values (m/M/male → Male, f/F/female → Female)  
